@@ -9,7 +9,7 @@
 
 ### Hi there! 👋🏼
 <div id="body" align="left">
-<b></b>I am Borja Uría and I'm a Data Engineer from Madrid (Spain)<b>
+<b>I am Borja Uría and I'm a Data Engineer from Madrid (Spain)</b>
 
 - 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
 - 💬 Ask me for anything and I will try to help you.
