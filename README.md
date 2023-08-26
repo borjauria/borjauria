@@ -11,7 +11,8 @@ I am a Data Engineer from Madrid (Spain).
 
 - 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
 - 💬 Ask me for anything and I will try to help you.
-- 📫 How to reach me: Best option for you: <a href="https://www.linkedin.com/in/borjauria/">Linkedin</a>.
+- 📫 How to reach me: Best option for you: <a href="https://www.linkedin.com/in/borjauria/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 - 🤓 In my free time I teach Python programming classes.
 
 ---
