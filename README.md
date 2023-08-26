@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized.gif" width="300" height="180"/>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy-downsized-large.gif" width="100"/>
   <div id="badges">
