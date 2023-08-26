@@ -5,9 +5,9 @@
 </div>
 <br>
 
-### Hi there 👋
+### Hi there! 👋🏼
 
-I am a Data Engineer from Madrid (Spain).
+I am a Data Engineer from Madrid (Spain), my name is Borja.
 
 - 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
 - 💬 Ask me for anything and I will try to help you.
