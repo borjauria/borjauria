@@ -7,8 +7,11 @@
 
 ### Hi there 👋
 
-- 📈 I am currently working as a Data Engineer for Santander Bank.
+👨🏻‍💻 About Me :
+
+I am a Data Engineer from Madrid (Spain).
+
+- 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
 - 💬 Ask me for anything and I will try to help you.
-- 📫 How to reach me: Best option for you: https://www.linkedin.com/in/borjauria/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Best option for you: <a href="https://www.linkedin.com/in/borjauria/">Linkedin</a>.
+- 🤓 In my free time I teach Python programming classes.
