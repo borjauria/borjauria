@@ -7,8 +7,6 @@
 
 ### Hi there 👋
 
-👨🏻‍💻 About Me :
-
 I am a Data Engineer from Madrid (Spain).
 
 - 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
