@@ -7,9 +7,8 @@
     <a href="https://www.linkedin.com/in/borjauria/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
 
-### Hi there! 👋🏼
+### Hi there! 👋🏼 I'm a Data Engineer from Madrid (Spain)
 <div id="body" align="left">
-<b>I am Borja Uría and I'm a Data Engineer from Madrid (Spain)</b>
 
 - 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
 - 💬 Ask me for anything and I will try to help you.
