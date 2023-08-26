@@ -21,4 +21,3 @@
 
 - 🤓 In my free time I teach Python programming classes.
 </div>
----
