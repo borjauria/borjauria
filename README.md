@@ -21,7 +21,7 @@
 
 - 🤓 In my free time I teach Python programming classes.
 
-### :hammer_and_wrench: Languages and Tools :
+<h4>👨🏻‍💻 Languages and Tools</h4>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
@@ -36,9 +36,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
-</div>
-  
 
+
+<br>  
+<h4>✍🏻 Blog Posts</h4>
+
+</div>
 
 
   
