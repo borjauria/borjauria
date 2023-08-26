@@ -9,12 +9,12 @@
 
 ### Hi there! 👋🏼
 <div id="body" align="left">
-I am a Data Engineer from Madrid (Spain), my name is Borja.
+<b></b>I am Borja Uría and I'm a Data Engineer from Madrid (Spain)<b>
 
 - 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
 - 💬 Ask me for anything and I will try to help you.
 - 📫 How to reach me?<br> Here 👉🏼 on <b>Linkedin, of course:</b> <a href="https://www.linkedin.com/in/borjauria/"> Linkedin</a>
 
 - 🤓 In my free time I teach Python programming classes.
-
+</div>
 ---
