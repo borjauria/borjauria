@@ -8,7 +8,7 @@
 </div>
 
 ### Hi there! 👋🏼
-
+<div id="body" align="left">
 I am a Data Engineer from Madrid (Spain), my name is Borja.
 
 - 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
