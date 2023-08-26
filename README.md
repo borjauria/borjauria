@@ -13,3 +13,5 @@ I am a Data Engineer from Madrid (Spain).
 - 💬 Ask me for anything and I will try to help you.
 - 📫 How to reach me: Best option for you: <a href="https://www.linkedin.com/in/borjauria/">Linkedin</a>.
 - 🤓 In my free time I teach Python programming classes.
+
+---
