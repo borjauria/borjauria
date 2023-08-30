@@ -46,7 +46,9 @@
 <a href="https://borjauria.es/food-delivery-times-46c22129ceff">borjauria.es/delivery-times-food-delivery-data</a>
 </div>
 
-
+<b>· Environment Variables in Python</b>
+<a href="https://borjauria.es/environment-variables-in-python-ebb3caa25c80">borjauria.es/python-env-variables</a>
+</div>
 
 </div>
 </div>
