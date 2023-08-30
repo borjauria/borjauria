@@ -38,12 +38,14 @@
 </div>
 <br>  
 <h4>⚡️ Blog Posts</h4
-<b>Work better, work on learning Kanban</b>
+<b>· Work better, work on learning Kanban</b>
 <a href="https://borjauria.es/work-better-work-on-learning-kanban-704b60f8eb35">borjauria.es/work-better</a>
 
-<b>Could food delivery platforms serve their ‘partners’ orders faster using data? 🌯</b>
+<b>· Could food delivery platforms serve their ‘partners’ orders faster using data? 🌯</b>
 <a href="https://medium.com/@borjauria/food-delivery-times-46c22129ceff">borjauria.es/delivery-times-food-delivery-data</a>
 </div>
+
+
 
 </div>
 </div>
