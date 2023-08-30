@@ -36,7 +36,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 </div>
-<br>  
+<br>
+<div>  
 <h4>⚡️ Blog Posts</h4
 <b>· Work better, work on learning Kanban</b>
 <a href="https://borjauria.es/work-better-work-on-learning-kanban-704b60f8eb35">borjauria.es/work-better</a>
