@@ -39,7 +39,10 @@
 
 
 <br>  
-<h4>✍🏻 Blog Posts</h4>
+<h4>✍🏻 Blog Posts</h4
+<b>Work better, work on learning Kanban</b>
+<a 
+href="https://borjauria.es/work-better-work-on-learning-kanban-704b60f8eb35">borjauria.es/work-better</a>
 
 </div>
 
