@@ -15,7 +15,7 @@
 ### Hi there! 👋🏼 I'm a Data Engineer from Madrid (Spain)
 <div id="body" align="left">
 
-- 📈 I'm working as a Data Engineer for Santander Bank and creating my own web applications.
+- 📈 As a freelance Data Engineer, I collaborate with clients like Santander Bank, while also dedicating time to creating my own web applications and IoT-related products. Additionally, I assist other businesses in their digital growth and transformation.
 - 💬 Ask me for anything and I will try to help you.
 - 📫 How to reach me?<br> Here 👉🏼 on <b>Linkedin, of course:</b> <a href="https://www.linkedin.com/in/borjauria/"> Linkedin</a>
 
